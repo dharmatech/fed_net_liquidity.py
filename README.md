@@ -10,4 +10,4 @@ Where:
 
 pypi package:
 
-https://pypi.org/project/newyorkfed-pandas/
+https://pypi.org/project/fed-net-liquidity/
